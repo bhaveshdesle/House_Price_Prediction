@@ -21,6 +21,8 @@ Ensure that the following tools are installed on your machine:
 git clone https://github.com/bhaveshdesle/VE3_Python_Assigment.git
 cd VE3_Python_Assigment
 ......
+
+
 </br>
 
 ![screenshot_2019-02-18 online book store 2]("C:\Users\desle\OneDrive\Pictures\Screenshots\Screenshot (104).png")
