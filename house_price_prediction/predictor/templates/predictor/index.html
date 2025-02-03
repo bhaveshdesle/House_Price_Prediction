@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House Price Prediction</title>
+</head>
+<body>
+    <h2>Enter House Details</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if prediction is not none %}
+        <h3>Estimated Price: ${{ prediction }}</h3>
+    {% elif error %}
+        <h3 style="color:red">{{ error }}</h3>
+    {% endif %}
+</body>
+</html>
