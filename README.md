@@ -24,6 +24,7 @@ cd VE3_Python_Assigment
 ```
 
 </br>
+
 ![Screenshot (104)](https://github.com/user-attachments/assets/622dd558-4c8f-4650-ad27-7a65ae8e9773)
 
 ![Screenshot (105)](https://github.com/user-attachments/assets/21076bb5-2e92-4b97-a1e8-5f7c18fccde5)
