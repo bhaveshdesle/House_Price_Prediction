@@ -1,7 +1,7 @@
 # House Price Prediction Web Application
 
 ## Project Description
-This is a **Django-based web application** designed to predict house prices based on various input features such as the number of bedrooms, bathrooms, area (in square feet), location, and condition. The application uses a **machine learning model** that has been trained using an open-source housing price dataset. The model predicts house prices by processing the input features and outputting a predicted value.
+This is a **Django-based web application** designed to predict house prices based on various input features such as the number of bedrooms, bathrooms, living area (in square feet), lot size (in square feet), and floor. The application uses a **machine learning model** that has been trained using an open-source housing price dataset. The model predicts house prices by processing the input features and outputting a predicted value.
 
 ### Features:
 - Predict house prices based on user input.
