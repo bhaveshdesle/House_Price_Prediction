@@ -24,20 +24,9 @@ cd VE3_Python_Assigment
 ```
 
 </br>
+![Screenshot (104)](https://github.com/user-attachments/assets/622dd558-4c8f-4650-ad27-7a65ae8e9773)
 
+![Screenshot (105)](https://github.com/user-attachments/assets/21076bb5-2e92-4b97-a1e8-5f7c18fccde5)
 
----
-
-### **Key Sections to Fill In:**
-- **Form Submission Screenshots:**
-  - Replace the placeholder image paths ('C:\Users\desle\OneDrive\Pictures\Screenshots\Screenshot (104).png' and `path_to_screenshot/predicted_price.png`) with actual paths to your screenshots.
-
-### **Customizations:**
-- **Model Details:** You can add more details about the model used (e.g., linear regression, random forest, etc.) in the `Project Description` section.
-- **Sample Input/Output:** Add relevant screenshots of the form and predictions from your application for clarity.
-
----
-
-This `README.md` structure will give the user clear instructions on how to set up and use the application, along with troubleshooting tips and expected outcomes.
 
 
