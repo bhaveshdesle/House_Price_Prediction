@@ -25,7 +25,7 @@ cd VE3_Python_Assigment
 
 </br>
 
-![screenshot_2019-02-18 online book store 2]("C:\Users\desle\OneDrive\Pictures\Screenshots\Screenshot (104).png")
+![screenshot_2019-02-18 online book store 2](C:\Users\desle\OneDrive\Pictures\Screenshots\Screenshot (104).png)
 
 
 ![Screenshot_2019-09-07 Online Book Store](https://user-images.githubusercontent.com/16104417/64470406-7a483c80-d164-11e9-93b1-cbca68a966cb.png)
