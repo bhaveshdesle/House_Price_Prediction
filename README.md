@@ -21,18 +21,12 @@ Ensure that the following tools are installed on your machine:
 git clone https://github.com/bhaveshdesle/VE3_Python_Assigment.git
 cd VE3_Python_Assigment
 
+```
 
----
+</br>
 
-### **Key Sections to Fill In:**
-- **Form Submission Screenshots:**
-  - Replace the placeholder image paths (`path_to_screenshot/form_submission.png` and `path_to_screenshot/predicted_price.png`) with actual paths to your screenshots.
+![screenshot_2019-02-18 online book store 2](https://user-images.githubusercontent.com/28836413/52928808-cddf6e00-336b-11e9-9db9-58cb0fc0f0e5.png)
 
-### **Customizations:**
-- **Model Details:** You can add more details about the model used (e.g., linear regression, random forest, etc.) in the `Project Description` section.
-- **Sample Input/Output:** Add relevant screenshots of the form and predictions from your application for clarity.
 
----
-
-This `README.md` structure will give the user clear instructions on how to set up and use the application, along with troubleshooting tips and expected outcomes.
+![Screenshot_2019-09-07 Online Book Store](https://user-images.githubusercontent.com/16104417/64470406-7a483c80-d164-11e9-93b1-cbca68a966cb.png)
 
