@@ -30,7 +30,7 @@ cd VE3_Python_Assigment
 
 ### **Key Sections to Fill In:**
 - **Form Submission Screenshots:**
-  - Replace the placeholder image paths ("C:\Users\desle\OneDrive\Pictures\Screenshots\Screenshot (104).png" and `path_to_screenshot/predicted_price.png`) with actual paths to your screenshots.
+  - Replace the placeholder image paths ('C:\Users\desle\OneDrive\Pictures\Screenshots\Screenshot (104).png' and `path_to_screenshot/predicted_price.png`) with actual paths to your screenshots.
 
 ### **Customizations:**
 - **Model Details:** You can add more details about the model used (e.g., linear regression, random forest, etc.) in the `Project Description` section.
